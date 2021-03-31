@@ -1,4 +1,6 @@
-A POS billing application used to add customers and products data and create bills for chosen products and showing lat 5 bills in dashboard.
+# Movie Application
+
+Movie Application is a combination of both React-Redux. There are search and order by functionality in it and we can remove the particular movie from the display. There are movie stats where it can show the top movie from the data.
 
 ### Packages Used
 
@@ -6,5 +8,5 @@ A POS billing application used to add customers and products data and create bil
 * react-router-dom
 * react-redux
 * redux-thunk
-* sweetalert
-* material-ui
+* bootstrap
+
