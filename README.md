@@ -12,3 +12,5 @@ Movie Application is a combination of both React-Redux. There are search and ord
 * redux-thunk
 * bootstrap
 
+### HEROKU
+[movie-app](https://movie-application-heroku.herokuapp.com/)
